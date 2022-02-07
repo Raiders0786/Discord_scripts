@@ -6,6 +6,7 @@ This script will help you get your bot fetch the total members present in the se
 
 - python -m pip install --user --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum
 - python3 -m pip install -U discord.py
+- pip install python-decouple
 
 **Configuration** :
 
